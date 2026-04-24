@@ -14,7 +14,6 @@
 - 🛠️ Exploring tools like Kali Linux, GitHub, and Nmap  
 
 ---
-![Snake Animation](https://raw.githubusercontent.com/usmandotcode/usmandotcode/output/github-contribution-grid-snake-dark.svg)
 
 
 ## 🧰 Toolbox
@@ -27,9 +26,7 @@
 </p>
 
 ---
-### 📈Contribution Graph
-
-[![Usman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=usmandotcode&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Snake Animation](https://raw.githubusercontent.com/usmandotcode/usmandotcode/output/github-contribution-grid-snake-dark.svg)
 
 ---
 ## 📫 Connect With Me
