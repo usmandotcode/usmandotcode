@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=550&height=45&lines=Access+Granted:+Welcome+to+my+GitHub!" alt="Typing SVG" />
 
 </p>
-
 ---
 
 ## 💡 About Me
@@ -15,6 +14,8 @@
 - 🛠️ Exploring tools like Kali Linux, GitHub, and Nmap  
 
 ---
+![Snake Animation](https://raw.githubusercontent.com/usmandotcode/usmandotcode/output/github-contribution-grid-snake-dark.svg)
+
 
 ## 🧰 Toolbox
 
