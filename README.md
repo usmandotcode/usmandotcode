@@ -33,7 +33,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=550&height=45&lines=Thanks+for+Visiting+my+Github!" alt="Typing SVG" />
 </p>
-.
+..
 
 
 
