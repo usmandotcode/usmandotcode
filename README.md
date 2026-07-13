@@ -7,10 +7,10 @@
 
 ---
 
-## 💡 About Me
+##  About Me
 
-- ⚡ Passionate about Linux, security, and breaking things to learn how they work  
-- 🔭 Currently learning **Bash scripting**, and **networking fundamentals**  
+-  Passionate about Linux, security, and breaking things to learn how they work  
+-  Currently learning **Bash scripting**, and **networking fundamentals**  
   
 
 ---
@@ -19,10 +19,10 @@
 
 ---
 
-## 🧰 Toolbox
+##  Toolbox
 
 
-### 🐚 Scripting & CLI
+###  Scripting & CLI
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
