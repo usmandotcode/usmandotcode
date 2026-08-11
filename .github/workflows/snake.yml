@@ -2,7 +2,6 @@ name: Generate Snake
 
 on:
   schedule:
-    # Har 12 ghanTe baad auto-run hoga
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
