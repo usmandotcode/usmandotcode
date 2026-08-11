@@ -14,7 +14,7 @@
   
 
 ---
-![Snake animation]!(https://raw.githubusercontent.com/usmandotcode/usmandotcode/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/usmandotcode/usmandotcode/output/github-snake-dark.svg)
 
 ---
 
