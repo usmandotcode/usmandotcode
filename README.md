@@ -14,11 +14,7 @@
   
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usmandotcode/usmandotcode/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usmandotcode/usmandotcode/output/github-snake.svg">
-  <img alt="github snake eating contributions" src="https://raw.githubusercontent.com/usmandotcode/usmandotcode/output/github-snake.svg" width="100%">
-</picture>
+![Snake animation](https://usmandotcode.github.io/usmandotcode/github-snake-dark.svg)
 ---
 
 ##  Toolbox
